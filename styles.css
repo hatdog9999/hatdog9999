@@ -1,0 +1,727 @@
+#btn-make {
+  bottom: 200px;
+  right: 30px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.div_btn {
+  position: fixed;
+  cursor: pointer;
+  width: 55px;
+  height: 55px;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  font-size: 2em;
+  line-height: 58px;
+  text-align: center;
+  z-index: 999;
+}
+#div_support {
+  bottom: 80px;
+  right: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+body {
+  background-image: url(follow\ and\ dm\ me\ and\ ill\ follow\ u\ back!!.jpg);
+  height: 100vh;
+  overflow: hidden;
+}
+
+#ui .nya {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -225px 0 0 -225px;
+}
+#ui .nya:last-child .nya_word {
+  color: #fff;
+  font-size: 2rem;
+  text-shadow: 0 0 10px rgb(214, 71, 214);
+}
+#ui .nya_word {
+  color: rgb(214, 71, 214);
+  font-size: 1.4rem;
+  transform: translateY(-100%) rotateZ(-30deg);
+  font-family: "Dosis", sans-serif;
+  text-shadow: 0 0 10px #fff;
+  letter-spacing: 2px;
+}
+#ui .nya_horizontal {
+  animation: horizontal 10000ms infinite alternate ease-in-out;
+}
+#ui .nya_vertical {
+  animation: vertical 20000ms infinite linear;
+}
+#ui .nya:nth-child(1) .nya_horizontal {
+  animation-delay: -300ms;
+}
+#ui .nya:nth-child(1) .nya_vertical {
+  animation-delay: -300ms;
+}
+#ui .nya:nth-child(2) .nya_horizontal {
+  animation-delay: -600ms;
+}
+#ui .nya:nth-child(2) .nya_vertical {
+  animation-delay: -600ms;
+}
+#ui .nya:nth-child(3) .nya_horizontal {
+  animation-delay: -900ms;
+}
+#ui .nya:nth-child(3) .nya_vertical {
+  animation-delay: -900ms;
+}
+#ui .nya:nth-child(4) .nya_horizontal {
+  animation-delay: -1200ms;
+}
+#ui .nya:nth-child(4) .nya_vertical {
+  animation-delay: -1200ms;
+}
+#ui .nya:nth-child(5) .nya_horizontal {
+  animation-delay: -1500ms;
+}
+#ui .nya:nth-child(5) .nya_vertical {
+  animation-delay: -1500ms;
+}
+#ui .nya:nth-child(6) .nya_horizontal {
+  animation-delay: -1800ms;
+}
+#ui .nya:nth-child(6) .nya_vertical {
+  animation-delay: -1800ms;
+}
+#ui .nya:nth-child(7) .nya_horizontal {
+  animation-delay: -2100ms;
+}
+#ui .nya:nth-child(7) .nya_vertical {
+  animation-delay: -2100ms;
+}
+#ui .nya:nth-child(8) .nya_horizontal {
+  animation-delay: -2400ms;
+}
+#ui .nya:nth-child(8) .nya_vertical {
+  animation-delay: -2400ms;
+}
+#ui .nya:nth-child(9) .nya_horizontal {
+  animation-delay: -2700ms;
+}
+#ui .nya:nth-child(9) .nya_vertical {
+  animation-delay: -2700ms;
+}
+#ui .nya:nth-child(10) .nya_horizontal {
+  animation-delay: -3000ms;
+}
+#ui .nya:nth-child(10) .nya_vertical {
+  animation-delay: -3000ms;
+}
+#ui .nya:nth-child(11) .nya_horizontal {
+  animation-delay: -3300ms;
+}
+#ui .nya:nth-child(11) .nya_vertical {
+  animation-delay: -3300ms;
+}
+#ui .nya:nth-child(12) .nya_horizontal {
+  animation-delay: -3600ms;
+}
+#ui .nya:nth-child(12) .nya_vertical {
+  animation-delay: -3600ms;
+}
+#ui .nya:nth-child(13) .nya_horizontal {
+  animation-delay: -3900ms;
+}
+#ui .nya:nth-child(13) .nya_vertical {
+  animation-delay: -3900ms;
+}
+#ui .nya:nth-child(14) .nya_horizontal {
+  animation-delay: -4200ms;
+}
+#ui .nya:nth-child(14) .nya_vertical {
+  animation-delay: -4200ms;
+}
+#ui .nya:nth-child(15) .nya_horizontal {
+  animation-delay: -4500ms;
+}
+#ui .nya:nth-child(15) .nya_vertical {
+  animation-delay: -4500ms;
+}
+#ui .nya:nth-child(16) .nya_horizontal {
+  animation-delay: -4800ms;
+}
+#ui .nya:nth-child(16) .nya_vertical {
+  animation-delay: -4800ms;
+}
+#ui .nya:nth-child(17) .nya_horizontal {
+  animation-delay: -5100ms;
+}
+#ui .nya:nth-child(17) .nya_vertical {
+  animation-delay: -5100ms;
+}
+#ui .nya:nth-child(18) .nya_horizontal {
+  animation-delay: -5400ms;
+}
+#ui .nya:nth-child(18) .nya_vertical {
+  animation-delay: -5400ms;
+}
+#ui .nya:nth-child(19) .nya_horizontal {
+  animation-delay: -5700ms;
+}
+#ui .nya:nth-child(19) .nya_vertical {
+  animation-delay: -5700ms;
+}
+#ui .nya:nth-child(20) .nya_horizontal {
+  animation-delay: -6000ms;
+}
+#ui .nya:nth-child(20) .nya_vertical {
+  animation-delay: -6000ms;
+}
+#ui .nya:nth-child(21) .nya_horizontal {
+  animation-delay: -6300ms;
+}
+#ui .nya:nth-child(21) .nya_vertical {
+  animation-delay: -6300ms;
+}
+#ui .nya:nth-child(22) .nya_horizontal {
+  animation-delay: -6600ms;
+}
+#ui .nya:nth-child(22) .nya_vertical {
+  animation-delay: -6600ms;
+}
+#ui .nya:nth-child(23) .nya_horizontal {
+  animation-delay: -6900ms;
+}
+#ui .nya:nth-child(23) .nya_vertical {
+  animation-delay: -6900ms;
+}
+#ui .nya:nth-child(24) .nya_horizontal {
+  animation-delay: -7200ms;
+}
+#ui .nya:nth-child(24) .nya_vertical {
+  animation-delay: -7200ms;
+}
+#ui .nya:nth-child(25) .nya_horizontal {
+  animation-delay: -7500ms;
+}
+#ui .nya:nth-child(25) .nya_vertical {
+  animation-delay: -7500ms;
+}
+#ui .nya:nth-child(26) .nya_horizontal {
+  animation-delay: -7800ms;
+}
+#ui .nya:nth-child(26) .nya_vertical {
+  animation-delay: -7800ms;
+}
+#ui .nya:nth-child(27) .nya_horizontal {
+  animation-delay: -8100ms;
+}
+#ui .nya:nth-child(27) .nya_vertical {
+  animation-delay: -8100ms;
+}
+#ui .nya:nth-child(28) .nya_horizontal {
+  animation-delay: -8400ms;
+}
+#ui .nya:nth-child(28) .nya_vertical {
+  animation-delay: -8400ms;
+}
+#ui .nya:nth-child(29) .nya_horizontal {
+  animation-delay: -8700ms;
+}
+#ui .nya:nth-child(29) .nya_vertical {
+  animation-delay: -8700ms;
+}
+#ui .nya:nth-child(30) .nya_horizontal {
+  animation-delay: -9000ms;
+}
+#ui .nya:nth-child(30) .nya_vertical {
+  animation-delay: -9000ms;
+}
+#ui .nya:nth-child(31) .nya_horizontal {
+  animation-delay: -9300ms;
+}
+#ui .nya:nth-child(31) .nya_vertical {
+  animation-delay: -9300ms;
+}
+#ui .nya:nth-child(32) .nya_horizontal {
+  animation-delay: -9600ms;
+}
+#ui .nya:nth-child(32) .nya_vertical {
+  animation-delay: -9600ms;
+}
+#ui .nya:nth-child(33) .nya_horizontal {
+  animation-delay: -9900ms;
+}
+#ui .nya:nth-child(33) .nya_vertical {
+  animation-delay: -9900ms;
+}
+#ui .nya:nth-child(34) .nya_horizontal {
+  animation-delay: -10200ms;
+}
+#ui .nya:nth-child(34) .nya_vertical {
+  animation-delay: -10200ms;
+}
+#ui .nya:nth-child(35) .nya_horizontal {
+  animation-delay: -10500ms;
+}
+#ui .nya:nth-child(35) .nya_vertical {
+  animation-delay: -10500ms;
+}
+#ui .nya:nth-child(36) .nya_horizontal {
+  animation-delay: -10800ms;
+}
+#ui .nya:nth-child(36) .nya_vertical {
+  animation-delay: -10800ms;
+}
+#ui .nya:nth-child(37) .nya_horizontal {
+  animation-delay: -11100ms;
+}
+#ui .nya:nth-child(37) .nya_vertical {
+  animation-delay: -11100ms;
+}
+#ui .nya:nth-child(38) .nya_horizontal {
+  animation-delay: -11400ms;
+}
+#ui .nya:nth-child(38) .nya_vertical {
+  animation-delay: -11400ms;
+}
+#ui .nya:nth-child(39) .nya_horizontal {
+  animation-delay: -11700ms;
+}
+#ui .nya:nth-child(39) .nya_vertical {
+  animation-delay: -11700ms;
+}
+#ui .nya:nth-child(40) .nya_horizontal {
+  animation-delay: -12000ms;
+}
+#ui .nya:nth-child(40) .nya_vertical {
+  animation-delay: -12000ms;
+}
+#ui .nya:nth-child(41) .nya_horizontal {
+  animation-delay: -12300ms;
+}
+#ui .nya:nth-child(41) .nya_vertical {
+  animation-delay: -12300ms;
+}
+#ui .nya:nth-child(42) .nya_horizontal {
+  animation-delay: -12600ms;
+}
+#ui .nya:nth-child(42) .nya_vertical {
+  animation-delay: -12600ms;
+}
+#ui .nya:nth-child(43) .nya_horizontal {
+  animation-delay: -12900ms;
+}
+#ui .nya:nth-child(43) .nya_vertical {
+  animation-delay: -12900ms;
+}
+#ui .nya:nth-child(44) .nya_horizontal {
+  animation-delay: -13200ms;
+}
+#ui .nya:nth-child(44) .nya_vertical {
+  animation-delay: -13200ms;
+}
+#ui .nya:nth-child(45) .nya_horizontal {
+  animation-delay: -13500ms;
+}
+#ui .nya:nth-child(45) .nya_vertical {
+  animation-delay: -13500ms;
+}
+#ui .nya:nth-child(46) .nya_horizontal {
+  animation-delay: -13800ms;
+}
+#ui .nya:nth-child(46) .nya_vertical {
+  animation-delay: -13800ms;
+}
+#ui .nya:nth-child(47) .nya_horizontal {
+  animation-delay: -14100ms;
+}
+#ui .nya:nth-child(47) .nya_vertical {
+  animation-delay: -14100ms;
+}
+#ui .nya:nth-child(48) .nya_horizontal {
+  animation-delay: -14400ms;
+}
+#ui .nya:nth-child(48) .nya_vertical {
+  animation-delay: -14400ms;
+}
+#ui .nya:nth-child(49) .nya_horizontal {
+  animation-delay: -14700ms;
+}
+#ui .nya:nth-child(49) .nya_vertical {
+  animation-delay: -14700ms;
+}
+#ui .nya:nth-child(50) .nya_horizontal {
+  animation-delay: -15000ms;
+}
+#ui .nya:nth-child(50) .nya_vertical {
+  animation-delay: -15000ms;
+}
+#ui .nya:nth-child(51) .nya_horizontal {
+  animation-delay: -15300ms;
+}
+#ui .nya:nth-child(51) .nya_vertical {
+  animation-delay: -15300ms;
+}
+#ui .nya:nth-child(52) .nya_horizontal {
+  animation-delay: -15600ms;
+}
+#ui .nya:nth-child(52) .nya_vertical {
+  animation-delay: -15600ms;
+}
+#ui .nya:nth-child(53) .nya_horizontal {
+  animation-delay: -15900ms;
+}
+#ui .nya:nth-child(53) .nya_vertical {
+  animation-delay: -15900ms;
+}
+#ui .nya:nth-child(54) .nya_horizontal {
+  animation-delay: -16200ms;
+}
+#ui .nya:nth-child(54) .nya_vertical {
+  animation-delay: -16200ms;
+}
+#ui .nya:nth-child(55) .nya_horizontal {
+  animation-delay: -16500ms;
+}
+#ui .nya:nth-child(55) .nya_vertical {
+  animation-delay: -16500ms;
+}
+#ui .nya:nth-child(56) .nya_horizontal {
+  animation-delay: -16800ms;
+}
+#ui .nya:nth-child(56) .nya_vertical {
+  animation-delay: -16800ms;
+}
+#ui .nya:nth-child(57) .nya_horizontal {
+  animation-delay: -17100ms;
+}
+#ui .nya:nth-child(57) .nya_vertical {
+  animation-delay: -17100ms;
+}
+#ui .nya:nth-child(58) .nya_horizontal {
+  animation-delay: -17400ms;
+}
+#ui .nya:nth-child(58) .nya_vertical {
+  animation-delay: -17400ms;
+}
+#ui .nya:nth-child(59) .nya_horizontal {
+  animation-delay: -17700ms;
+}
+#ui .nya:nth-child(59) .nya_vertical {
+  animation-delay: -17700ms;
+}
+#ui .nya:nth-child(60) .nya_horizontal {
+  animation-delay: -18000ms;
+}
+#ui .nya:nth-child(60) .nya_vertical {
+  animation-delay: -18000ms;
+}
+#ui .nya:nth-child(61) .nya_horizontal {
+  animation-delay: -18300ms;
+}
+#ui .nya:nth-child(61) .nya_vertical {
+  animation-delay: -18300ms;
+}
+#ui .nya:nth-child(62) .nya_horizontal {
+  animation-delay: -18600ms;
+}
+#ui .nya:nth-child(62) .nya_vertical {
+  animation-delay: -18600ms;
+}
+#ui .nya:nth-child(63) .nya_horizontal {
+  animation-delay: -18900ms;
+}
+#ui .nya:nth-child(63) .nya_vertical {
+  animation-delay: -18900ms;
+}
+#ui .nya:nth-child(64) .nya_horizontal {
+  animation-delay: -19200ms;
+}
+#ui .nya:nth-child(64) .nya_vertical {
+  animation-delay: -19200ms;
+}
+#ui .nya:nth-child(65) .nya_horizontal {
+  animation-delay: -19500ms;
+}
+#ui .nya:nth-child(65) .nya_vertical {
+  animation-delay: -19500ms;
+}
+#ui .nya:nth-child(66) .nya_horizontal {
+  animation-delay: -19800ms;
+}
+#ui .nya:nth-child(66) .nya_vertical {
+  animation-delay: -19800ms;
+}
+#ui .nya:nth-child(67) .nya_horizontal {
+  animation-delay: -20100ms;
+}
+#ui .nya:nth-child(67) .nya_vertical {
+  animation-delay: -20100ms;
+}
+#ui .nya:nth-child(68) .nya_horizontal {
+  animation-delay: -20400ms;
+}
+#ui .nya:nth-child(68) .nya_vertical {
+  animation-delay: -20400ms;
+}
+#ui .nya:nth-child(69) .nya_horizontal {
+  animation-delay: -20700ms;
+}
+#ui .nya:nth-child(69) .nya_vertical {
+  animation-delay: -20700ms;
+}
+#ui .nya:nth-child(70) .nya_horizontal {
+  animation-delay: -21000ms;
+}
+#ui .nya:nth-child(70) .nya_vertical {
+  animation-delay: -21000ms;
+}
+#ui .nya:nth-child(71) .nya_horizontal {
+  animation-delay: -21300ms;
+}
+#ui .nya:nth-child(71) .nya_vertical {
+  animation-delay: -21300ms;
+}
+#ui .nya:nth-child(72) .nya_horizontal {
+  animation-delay: -21600ms;
+}
+#ui .nya:nth-child(72) .nya_vertical {
+  animation-delay: -21600ms;
+}
+#ui .nya:nth-child(73) .nya_horizontal {
+  animation-delay: -21900ms;
+}
+#ui .nya:nth-child(73) .nya_vertical {
+  animation-delay: -21900ms;
+}
+#ui .nya:nth-child(74) .nya_horizontal {
+  animation-delay: -22200ms;
+}
+#ui .nya:nth-child(74) .nya_vertical {
+  animation-delay: -22200ms;
+}
+#ui .nya:nth-child(75) .nya_horizontal {
+  animation-delay: -22500ms;
+}
+#ui .nya:nth-child(75) .nya_vertical {
+  animation-delay: -22500ms;
+}
+#ui .nya:nth-child(76) .nya_horizontal {
+  animation-delay: -22800ms;
+}
+#ui .nya:nth-child(76) .nya_vertical {
+  animation-delay: -22800ms;
+}
+#ui .nya:nth-child(77) .nya_horizontal {
+  animation-delay: -23100ms;
+}
+#ui .nya:nth-child(77) .nya_vertical {
+  animation-delay: -23100ms;
+}
+#ui .nya:nth-child(78) .nya_horizontal {
+  animation-delay: -23400ms;
+}
+#ui .nya:nth-child(78) .nya_vertical {
+  animation-delay: -23400ms;
+}
+#ui .nya:nth-child(79) .nya_horizontal {
+  animation-delay: -23700ms;
+}
+#ui .nya:nth-child(79) .nya_vertical {
+  animation-delay: -23700ms;
+}
+#ui .nya:nth-child(80) .nya_horizontal {
+  animation-delay: -24000ms;
+}
+#ui .nya:nth-child(80) .nya_vertical {
+  animation-delay: -24000ms;
+}
+#ui .nya:nth-child(81) .nya_horizontal {
+  animation-delay: -24300ms;
+}
+#ui .nya:nth-child(81) .nya_vertical {
+  animation-delay: -24300ms;
+}
+#ui .nya:nth-child(82) .nya_horizontal {
+  animation-delay: -24600ms;
+}
+#ui .nya:nth-child(82) .nya_vertical {
+  animation-delay: -24600ms;
+}
+#ui .nya:nth-child(83) .nya_horizontal {
+  animation-delay: -24900ms;
+}
+#ui .nya:nth-child(83) .nya_vertical {
+  animation-delay: -24900ms;
+}
+#ui .nya:nth-child(84) .nya_horizontal {
+  animation-delay: -25200ms;
+}
+#ui .nya:nth-child(84) .nya_vertical {
+  animation-delay: -25200ms;
+}
+#ui .nya:nth-child(85) .nya_horizontal {
+  animation-delay: -25500ms;
+}
+#ui .nya:nth-child(85) .nya_vertical {
+  animation-delay: -25500ms;
+}
+#ui .nya:nth-child(86) .nya_horizontal {
+  animation-delay: -25800ms;
+}
+#ui .nya:nth-child(86) .nya_vertical {
+  animation-delay: -25800ms;
+}
+#ui .nya:nth-child(87) .nya_horizontal {
+  animation-delay: -26100ms;
+}
+#ui .nya:nth-child(87) .nya_vertical {
+  animation-delay: -26100ms;
+}
+#ui .nya:nth-child(88) .nya_horizontal {
+  animation-delay: -26400ms;
+}
+#ui .nya:nth-child(88) .nya_vertical {
+  animation-delay: -26400ms;
+}
+#ui .nya:nth-child(89) .nya_horizontal {
+  animation-delay: -26700ms;
+}
+#ui .nya:nth-child(89) .nya_vertical {
+  animation-delay: -26700ms;
+}
+#ui .nya:nth-child(90) .nya_horizontal {
+  animation-delay: -27000ms;
+}
+#ui .nya:nth-child(90) .nya_vertical {
+  animation-delay: -27000ms;
+}
+#ui .nya:nth-child(91) .nya_horizontal {
+  animation-delay: -27300ms;
+}
+#ui .nya:nth-child(91) .nya_vertical {
+  animation-delay: -27300ms;
+}
+#ui .nya:nth-child(92) .nya_horizontal {
+  animation-delay: -27600ms;
+}
+#ui .nya:nth-child(92) .nya_vertical {
+  animation-delay: -27600ms;
+}
+#ui .nya:nth-child(93) .nya_horizontal {
+  animation-delay: -27900ms;
+}
+#ui .nya:nth-child(93) .nya_vertical {
+  animation-delay: -27900ms;
+}
+#ui .nya:nth-child(94) .nya_horizontal {
+  animation-delay: -28200ms;
+}
+#ui .nya:nth-child(94) .nya_vertical {
+  animation-delay: -28200ms;
+}
+#ui .nya:nth-child(95) .nya_horizontal {
+  animation-delay: -28500ms;
+}
+#ui .nya:nth-child(95) .nya_vertical {
+  animation-delay: -28500ms;
+}
+#ui .nya:nth-child(96) .nya_horizontal {
+  animation-delay: -28800ms;
+}
+#ui .nya:nth-child(96) .nya_vertical {
+  animation-delay: -28800ms;
+}
+#ui .nya:nth-child(97) .nya_horizontal {
+  animation-delay: -29100ms;
+}
+#ui .nya:nth-child(97) .nya_vertical {
+  animation-delay: -29100ms;
+}
+#ui .nya:nth-child(98) .nya_horizontal {
+  animation-delay: -29400ms;
+}
+#ui .nya:nth-child(98) .nya_vertical {
+  animation-delay: -29400ms;
+}
+#ui .nya:nth-child(99) .nya_horizontal {
+  animation-delay: -29700ms;
+}
+#ui .nya:nth-child(99) .nya_vertical {
+  animation-delay: -29700ms;
+}
+#ui .nya:nth-child(100) .nya_horizontal {
+  animation-delay: -30000ms;
+}
+#ui .nya:nth-child(100) .nya_vertical {
+  animation-delay: -30000ms;
+}
+
+@keyframes horizontal {
+  from {
+    transform: translateX(0px);
+  }
+  to {
+    transform: translateX(450px);
+  }
+}
+@keyframes vertical {
+  0% {
+    transform: translateY(180px);
+  }
+  10% {
+    transform: translateY(45px);
+  }
+  15% {
+    transform: translateY(4.5px);
+  }
+  18% {
+    transform: translateY(0px);
+  }
+  20% {
+    transform: translateY(4.5px);
+  }
+  22% {
+    transform: translateY(34.61538px);
+  }
+  24% {
+    transform: translateY(64.28571px);
+  }
+  25% {
+    transform: translateY(112.5px);
+  }
+  26% {
+    transform: translateY(64.28571px);
+  }
+  28% {
+    transform: translateY(34.61538px);
+  }
+  30% {
+    transform: translateY(4.5px);
+  }
+  32% {
+    transform: translateY(0px);
+  }
+  35% {
+    transform: translateY(4.5px);
+  }
+  40% {
+    transform: translateY(45px);
+  }
+  50% {
+    transform: translateY(180px);
+  }
+  71% {
+    transform: translateY(428.57143px);
+  }
+  72.5% {
+    transform: translateY(441.17647px);
+  }
+  75% {
+    transform: translateY(450px);
+  }
+  77.5% {
+    transform: translateY(441.17647px);
+  }
+  79% {
+    transform: translateY(428.57143px);
+  }
+  100% {
+    transform: translateY(180px);
+  }
+}
